@@ -75,3 +75,6 @@ npm start
 3. Select the desired city from the autocomplete list.
 4. The app will display the current weather information for the selected city, including temperature, humidity, wind speed, and weather description.
 5. Click on the accordion to view the next 6-days weather forecast and additional information of weather for the selected city.
+
+## Live Demo
+[Live Demo](https://Chandanpreet-Kaur-15.github.io/Cloud-Cast-a-weather-app-using-React-JS)
