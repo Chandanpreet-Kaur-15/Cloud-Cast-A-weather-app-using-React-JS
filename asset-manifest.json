@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cloud-Cast-a-weather-app-using-React-JS/static/css/main.35080e66.css",
+    "main.js": "/Cloud-Cast-a-weather-app-using-React-JS/static/js/main.bf4fb3b3.js",
+    "static/js/787.d9312eb8.chunk.js": "/Cloud-Cast-a-weather-app-using-React-JS/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/Cloud-Cast-a-weather-app-using-React-JS/index.html",
+    "main.35080e66.css.map": "/Cloud-Cast-a-weather-app-using-React-JS/static/css/main.35080e66.css.map",
+    "main.bf4fb3b3.js.map": "/Cloud-Cast-a-weather-app-using-React-JS/static/js/main.bf4fb3b3.js.map",
+    "787.d9312eb8.chunk.js.map": "/Cloud-Cast-a-weather-app-using-React-JS/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35080e66.css",
+    "static/js/main.bf4fb3b3.js"
+  ]
+}
